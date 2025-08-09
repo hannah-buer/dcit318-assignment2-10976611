@@ -1,0 +1,7 @@
+C:\Users\iamda\OneDrive\Documents\Codebases\Csharp\dcit318-assignment2-10969867\Movable\Movable\bin\Debug\Movable.exe.config
+C:\Users\iamda\OneDrive\Documents\Codebases\Csharp\dcit318-assignment2-10969867\Movable\Movable\bin\Debug\Movable.exe
+C:\Users\iamda\OneDrive\Documents\Codebases\Csharp\dcit318-assignment2-10969867\Movable\Movable\bin\Debug\Movable.pdb
+C:\Users\iamda\OneDrive\Documents\Codebases\Csharp\dcit318-assignment2-10969867\Movable\Movable\obj\Debug\Movable.csproj.AssemblyReference.cache
+C:\Users\iamda\OneDrive\Documents\Codebases\Csharp\dcit318-assignment2-10969867\Movable\Movable\obj\Debug\Movable.csproj.CoreCompileInputs.cache
+C:\Users\iamda\OneDrive\Documents\Codebases\Csharp\dcit318-assignment2-10969867\Movable\Movable\obj\Debug\Movable.exe
+C:\Users\iamda\OneDrive\Documents\Codebases\Csharp\dcit318-assignment2-10969867\Movable\Movable\obj\Debug\Movable.pdb
